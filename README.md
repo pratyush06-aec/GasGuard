@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="assets/project_structure.png" width="300" alt="GasGuard Project Structure"/>
+  <img src="assets/project_structure.png" width="300" height="300" alt="GasGuard Project Structure"/>
 </p>
 
 ---
