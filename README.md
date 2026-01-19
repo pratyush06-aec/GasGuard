@@ -5,13 +5,13 @@
 ---
 
 <p align="center">
-  <img src="assets/project_dp.png" width="180" alt="GasGuard DP"/>
+  <img src="assets/project_dp.png" width="500" alt="GasGuard DP"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="assets/project_structure.png" width="700" alt="GasGuard Project Structure"/>
+  <img src="assets/project_structure.png" width="300" height="300" alt="GasGuard Project Structure"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Composed transactions often:
 ---
 
 <p align="center">
-  <img src="assets/problems.png" width="700" alt="Problems"/>
+  <img src="assets/problems.png" width="300" alt="Problems"/>
 </p>
 
 ---
@@ -130,7 +130,7 @@ It provides **execution intelligence** that enables better decisions.
 ---
 
 <p align="center">
-  <img src="assets/solutions.png" width="700" alt="GasGuard Solutions"/>
+  <img src="assets/solutions.png" width="300" alt="GasGuard Solutions"/>
 </p>
 
 ---
@@ -292,7 +292,7 @@ Bootstrappin
 ---
 
 <p align="center">
-  <img src="assets/full_tech_stack.png" width="700" alt="GasGuard Tech Stack"/>
+  <img src="assets/full_tech_stack.png" width="300" alt="GasGuard Tech Stack"/>
 </p>
 
 ---
